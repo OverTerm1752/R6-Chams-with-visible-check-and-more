@@ -6,7 +6,7 @@
 //  Content:    D3DX11 utility library
 //
 //////////////////////////////////////////////////////////////////////////////
-
+//ez
 #ifdef  __D3DX11_INTERNAL__
 #error Incorrect D3DX11 header used
 #endif
